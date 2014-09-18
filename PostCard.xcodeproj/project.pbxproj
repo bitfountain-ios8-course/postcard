@@ -13,6 +13,7 @@
 		ECA0572F19CB057A00589BBB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECA0572E19CB057A00589BBB /* Images.xcassets */; };
 		ECA0573219CB057A00589BBB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ECA0573019CB057A00589BBB /* LaunchScreen.xib */; };
 		ECA0573E19CB057A00589BBB /* PostCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA0573D19CB057A00589BBB /* PostCardTests.swift */; };
+		ECA0574A19CB0ED100589BBB /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ECA0574919CB0ED100589BBB /* SagradaFamilia.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		ECA0573719CB057A00589BBB /* PostCardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECA0573C19CB057A00589BBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ECA0573D19CB057A00589BBB /* PostCardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTests.swift; sourceTree = "<group>"; };
+		ECA0574919CB0ED100589BBB /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		ECA0572519CB057A00589BBB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				ECA0574919CB0ED100589BBB /* SagradaFamilia.jpeg */,
 				ECA0572619CB057A00589BBB /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ECA0572D19CB057A00589BBB /* Main.storyboard in Resources */,
+				ECA0574A19CB0ED100589BBB /* SagradaFamilia.jpeg in Resources */,
 				ECA0573219CB057A00589BBB /* LaunchScreen.xib in Resources */,
 				ECA0572F19CB057A00589BBB /* Images.xcassets in Resources */,
 			);
